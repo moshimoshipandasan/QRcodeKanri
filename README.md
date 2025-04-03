@@ -11,6 +11,10 @@ Google Apps Script を利用したQRコード管理ツールです。
 *   指定した文字列からQRコードを生成します。
 *   生成したQRコードをスプレッドシートに挿入します。
 
+## 参照
+
+*   [サンプルスプレッドシート](https://docs.google.com/spreadsheets/d/1_DRhANZ8caJHQzkbvUh6S9RQfA0XmDRx0C6c4Smwkqw/copy) - このリンクをクリックすると、プロジェクトのサンプルとして使用できるスプレッドシートのコピーを作成できます。
+
 ## 使い方
 
 1.  Google Apps Script エディタでコードを開きます。
